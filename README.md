@@ -1,5 +1,8 @@
 # Intern-QA-Automation-Bootcamp
 
+<p Source code is located as separate file as named 'Source Code' /p>
+
+<p Solution is located on the file which is name as 'TechTastQAAutomationBootcam' /p>
 
 <img src="Sample1.png" />
 
